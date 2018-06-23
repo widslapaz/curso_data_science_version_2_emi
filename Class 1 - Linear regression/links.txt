@@ -1,0 +1,15 @@
+Link a la presentacion: Introduccion a Inteligencia Artificial:
+https://drive.google.com/open?id=1ldkpL466iAQUWX8kTjr0gz4j2LHk8YxQx3qAwxR8gto
+
+Link al notebook de ejercicios:
+https://drive.google.com/file/d/1b1otD8hfRZReqc8HTghyTAKlsK9ozXEF/view?usp=sharing
+
+
+Links videos de repaso:
+Introduccion a inteligencia artificial: https://youtu.be/oT3arRRB2Cw
+
+Optimizacion: https://youtu.be/A6FiCDoz8_4
+
+Regresion lineal: https://youtu.be/k964_uNn3l0
+
+
